@@ -7,11 +7,17 @@ header {
     height: 600px;
     width: 100%;
     margin: auto;
-    background-color: aquamarine;
+    
 }
 .web{
-    font-size: 30px;
-    color: brown;
     text-align: right;
+    font-size: 30px;
+    color: brown; 
+    text-align: center;
+}
+
+.first{
+    background-color: aquamarine;
+
 
 }
